@@ -69,7 +69,7 @@ if(isset($_GET["tv"])){
     $nameOfStation = "Megamax";
 }
 
-$nameOfPage = "Uploading TV Schedule ".$nameOfStation 
+$nameOfPage = "TV Schedule ".$nameOfStation." Analytics";
 ?>
 
 <html>
